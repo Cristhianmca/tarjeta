@@ -1,0 +1,47 @@
+body {
+display: flex;
+align-items: center;
+text-align: center;
+justify-content: center;
+background-image: url(./fondo\ rick.jpg);
+background-position: center;
+background-size: cove;
+color: antiquewhite;
+font-family: 'Times New Roman', Times, serif;
+margin: ;
+
+
+}
+main {
+    background-color: hsla(222, 14%, 15%, 0.75);
+    display: flex;
+    flex-direction: column;
+    width: % ;
+    max-width: 40%;
+    margin: 30px;
+    padding: 2rem;
+    border-radius: 5rem;
+    gap: 1rem;
+}
+.figure_photo_profesional {
+    width: 50%;
+    border-radius: 50%;
+}
+.footer_linke {
+    gap: 1rem;
+    width: 5%;
+    border-radius: 5%;
+}
+.footer_insta {
+    width: 5%;
+    border-radius: 5%;
+
+}
+.footer_git {
+    width: 5%;
+    border-radius: 5%;
+}
+.footer_you {
+    width: 5%;
+    border-radius: 5%;
+}
